@@ -19,7 +19,7 @@ function gerarPlaceHolder(nome, id) {
     
     // Fundo gradiente
     const gradient = ctx.createLinearGradient(0, 0, canvas.width, canvas.height);
-    gradient.addColorStop(0, ['#667eea', '#f093fb', '#4facfe', '#43e97b', '#fa709a'][(id-1) % 5]);
+    gradient.addColorStop(0, ['#667eea', '#f5f3f5', '#4facfe', '#43e97b', '#fa709a'][(id-1) % 5]);
     gradient.addColorStop(1, ['#764ba2', '#f5576c', '#00f2fe', '#38f9d7', '#fee140'][(id-1) % 5]);
     ctx.fillStyle = gradient;
     ctx.fillRect(0, 0, canvas.width, canvas.height);
