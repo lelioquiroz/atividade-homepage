@@ -4,38 +4,35 @@
     "nome": "Camiseta Básica",
     "preco": 49.90,
     "descricao": "Camiseta 100% algodão",
-    "imagem": "camiseta.jpg"
+    "imagem": "camiseta.jpeg"
   },
   {
     "id": 2,
     "nome": "Calça Jeans",
     "preco": 99.90,
     "descricao": "Calça jeans azul",
-    "imagem": "calça.jpg"
+    "imagem": "calça.jpeg"
   },
-
   {
     "id": 3,
-    "nome": "cueca",
+    "nome": "Cueca",
     "preco": 39.90,
-    "descricao": "cueca 100% algodão",
-    "imagem": "cueca.jpg"
+    "descricao": "Cueca 100% algodão",
+    "imagem": "cueca.jpeg"
   },
   {
     "id": 4,
-    "nome": "meias",
+    "nome": "Meias",
     "preco": 19.90,
-    "descricao": "meias azul",
-    "imagem": "meia.jpg"
+    "descricao": "Meias azul",
+    "imagem": "meia.jpeg"
   },
   {
     "id": 5,
-    "nome": "guarda chuva",
+    "nome": "Guarda Chuva",
     "preco": 190.00,
-    "descricao": "guarda chuva azul",
-    "imagem":"guarda-chuva.jpg"
-   
-    
+    "descricao": "Guarda chuva azul",
+    "imagem": "guarda-chuva.jpeg"
   }
 ]
 
